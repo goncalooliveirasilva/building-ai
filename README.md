@@ -16,7 +16,7 @@ Choosing what to wear seems trivial, but most people get it wrong regularly:
 
 - **Temperature alone is misleading**: 15°C in spring sunshine feels warm, but 15°C with autumn wind and drizzle feels cold. A simple thermometer check doesn't capture this.
 - **Activity matters**: the right outfit for a morning jog is very different from one for sitting in an office, even in the same weather.
-- **Daily friction**: everyone faces this decision every morning. Getting it wrong means being during the day.
+- **Daily friction**: everyone faces this decision every morning. Getting it wrong means being unconfortable during the day.
 
 My personal motivation is that I check the weather app every morning and still end up making bad choices sometimes, especially during transitional seasons.
 
