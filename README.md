@@ -60,6 +60,5 @@ k-NN is a good fit. It handles the non-linear interactions naturally (e.g., wind
 
 ## Acknowledgments
 
-- [Building AI course](https://buildingai.elementsofai.com/)
 - [OpenWeatherMap](https://openweathermap.org/)
 - [scikit-learn documentation](https://scikit-learn.org/)
