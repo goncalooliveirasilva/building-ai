@@ -4,7 +4,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # WearCast
 
-Final project for the Building AI course.
+_Final project for the Building AI course._
 
 ## Summary
 
